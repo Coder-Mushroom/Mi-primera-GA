@@ -1,0 +1,11 @@
+{
+  "name": "Mi-primera-GA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IIC2513/Mi-primera-GA.git",
+  "author": "Antonio Ossa-Guerra <aaossa@uc.cl>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
